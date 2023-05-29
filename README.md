@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi, I'm Uvesh Ahmad, a Full Stack Developer 🚀 from India . Beside's programming, I like to understand Physics concepts and solve Students Doubts related to Physics.
+Hi, I'm Uvesh Ahmad, a Full Stack Developer 🚀 from India . Beside's programming I am a Learner & Physics Teacher 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
