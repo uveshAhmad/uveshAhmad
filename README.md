@@ -33,7 +33,7 @@ Hi, I'm Uvesh Ahmad, a Full Stack Developer 🚀 from India . Beside's programmi
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I will starting helping Class 11-12th ,JEE and NEET aspirants, by launching my own platform known as [UV PHYSICS CLASSES](https://competitivegeeks.wordpress.com/) in 2023, This Platform Work in progress
 - 📫 How to reach me: uveshahmad30@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1PE1-w1gBMM1HyRzmJtXL_l9SlYbPIuqU/view?usp=share_link)
+- 📝[Resume](https://drive.google.com/file/d/1qP3xdOMm_DeV_IXIuXZeUtpySeww_vS8/view?usp=drive_link)
 
 **Languages and Tools:**  
 
